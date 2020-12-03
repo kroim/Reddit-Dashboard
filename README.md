@@ -1,1 +1,0 @@
-# disk-ring-codeginter
